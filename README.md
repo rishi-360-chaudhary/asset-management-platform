@@ -6,7 +6,7 @@ enables efficient inventory tracking, asset booking, approval workflows, and ope
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table  of  Contents
 1. [Tech Stack](#-tech-stack)
 2. [Features](#-features)
 3. [Project Structure](#-project-structure)
